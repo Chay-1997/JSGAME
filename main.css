@@ -1,0 +1,19 @@
+#This{
+    display:flex;
+    justify-content: space-around;
+}
+
+/*FirstPlayer{
+    background-color: cyan;
+
+}
+
+#SecondPlayer{
+    background-color: gold;
+} */
+
+
+.active{
+    background-color: gold
+}
+
